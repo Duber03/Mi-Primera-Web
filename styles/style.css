@@ -1,0 +1,15 @@
+h1{
+    color:#008080;
+    font-family:"Shadows Into Light", sans-serif;
+    font-weight:bolder;
+    font-size:25px;
+    display:inline;
+    margin-right:20px;
+    text-align: center;
+    margin: 0;
+    padding: 50px;
+}
+
+body{
+    background:#F7F7F7;
+}
